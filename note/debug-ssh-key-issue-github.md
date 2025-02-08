@@ -86,10 +86,6 @@ wsl
 
 ---
 
-### **Summary**
 
-🔹 **Quick Fix:** Run `sudo git config --global core.filemode false`.  
-🔹 **Better Fix:** Move your repo to `/home/your-user/` inside WSL.  
-🔹 **Permanent Fix:** Edit `/etc/wsl.conf` to enable metadata support for Windows-mounted files.
 
-Let me know if you need more help! 🚀
+
