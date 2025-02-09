@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Logs and debugging
+logs/
+*.log
+debug.log
+*.out
+*.err
+
+# Cache files
+.cache/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# PyCharm settings
+.idea/
+
+# macOS files
+.DS_Store
+
+# Linux files
+*.swp
+*~
+
+# Environment variables / secrets
+.env
+*.env
+*.envtest
+config/settings_local.py
+secrets.json
+
+# Docker-related files
+*.dockerfile
+*.dockerignore
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Ansible
+*.retry
+
+# Database files
+*.sqlite3
+*.db
+
+# pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Jupyter Notebook hidden files
+.ipynb_checkpoints/
+
+# Celery beat schedule
+celerybeat-schedule
+
+# AWS CLI credentials
+.aws/
+
+# SSH files
+.ssh/
+
+# Ignore any custom temporary files
+tmp/
