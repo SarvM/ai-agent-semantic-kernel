@@ -10,7 +10,7 @@ try:
 
     service = AzureChatCompletion(
         service_id="azureopenai_chat_service",
-        api_key="",
+        api_key="CEudQGXQaHqpM1pgBXSK1O3fVIfmtpcI2KW2LwjradxR4t9sF3KLJQQJ99BBACHYHv6XJ3w3AAABACOGq667",
         deployment_name="gpt-35-turbo",
         endpoint="https://sk-azureopenai-sarvm.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-08-01-preview",
         base_url="https://sk-azureopenai-sarvm.openai.azure.com",
